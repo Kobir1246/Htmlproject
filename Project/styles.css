@@ -434,7 +434,7 @@
   }
  
   td:last-child {
-  border-right: none; /* Remove border for last column */
+  border-right: none;
   }
 
   tfoot td {
